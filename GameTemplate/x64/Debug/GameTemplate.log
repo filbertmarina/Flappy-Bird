@@ -1,19 +1,21 @@
-﻿  Game.cpp
-C:\Users\79039\Desktop\TEST\Game.cpp(72,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(104,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(143,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(156,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(273,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(274,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(284,36): warning C4244: =: преобразование "int" в "_Ty1", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(284,36): warning C4244:         with
-C:\Users\79039\Desktop\TEST\Game.cpp(284,36): warning C4244:         [
-C:\Users\79039\Desktop\TEST\Game.cpp(284,36): warning C4244:             _Ty1=float
-C:\Users\79039\Desktop\TEST\Game.cpp(284,36): warning C4244:         ]
-C:\Users\79039\Desktop\TEST\Game.cpp(285,31): warning C4244: =: преобразование "int" в "_Ty2", возможна потеря данных
-C:\Users\79039\Desktop\TEST\Game.cpp(285,31): warning C4244:         with
-C:\Users\79039\Desktop\TEST\Game.cpp(285,31): warning C4244:         [
-C:\Users\79039\Desktop\TEST\Game.cpp(285,31): warning C4244:             _Ty2=float
-C:\Users\79039\Desktop\TEST\Game.cpp(285,31): warning C4244:         ]
-C:\Users\79039\Desktop\TEST\Game.cpp(323,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-  GameTemplate.vcxproj -> C:\Users\79039\Desktop\TEST\x64\Debug\GameTemplate.exe
+﻿  Engine.cpp
+  Game.cpp
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(72,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(104,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(143,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(156,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(273,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(274,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(284,36): warning C4244: =: преобразование "int" в "_Ty1", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(284,36): warning C4244:         with
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(284,36): warning C4244:         [
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(284,36): warning C4244:             _Ty1=float
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(284,36): warning C4244:         ]
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(285,31): warning C4244: =: преобразование "int" в "_Ty2", возможна потеря данных
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(285,31): warning C4244:         with
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(285,31): warning C4244:         [
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(285,31): warning C4244:             _Ty2=float
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(285,31): warning C4244:         ]
+C:\Users\79039\Desktop\TEST\Flappy-Bird\Game.cpp(323,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  GameTemplate.vcxproj -> C:\Users\79039\Desktop\TEST\Flappy-Bird\x64\Debug\GameTemplate.exe

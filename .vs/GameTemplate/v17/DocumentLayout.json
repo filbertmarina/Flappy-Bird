@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\79039\\Desktop\\TEST\\",
+  "WorkspaceRootPath": "C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|C:\\Users\\79039\\Desktop\\TEST\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|C:\\Users\\79039\\Desktop\\TEST\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|solutionrelative:Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|C:\\Users\\79039\\Desktop\\TEST\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFB5D12-65A6-43BE-9636-FA6BD1C4392F}|GameTemplate.vcxproj|solutionrelative:Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Engine.cpp",
-              "DocumentMoniker": "C:\\Users\\79039\\Desktop\\TEST\\Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Engine.cpp",
               "RelativeDocumentMoniker": "Engine.cpp",
-              "ToolTip": "C:\\Users\\79039\\Desktop\\TEST\\Engine.cpp",
+              "ToolTip": "C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Engine.cpp",
               "RelativeToolTip": "Engine.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-02T15:33:43.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T15:33:43.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Engine.h",
-              "DocumentMoniker": "C:\\Users\\79039\\Desktop\\TEST\\Engine.h",
+              "DocumentMoniker": "C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Engine.h",
               "RelativeDocumentMoniker": "Engine.h",
-              "ToolTip": "C:\\Users\\79039\\Desktop\\TEST\\Engine.h",
+              "ToolTip": "C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Engine.h",
               "RelativeToolTip": "Engine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-02T15:23:20.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T15:23:20.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\79039\\Desktop\\TEST\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Game.cpp",
               "RelativeDocumentMoniker": "Game.cpp",
-              "ToolTip": "C:\\Users\\79039\\Desktop\\TEST\\Game.cpp",
+              "ToolTip": "C:\\Users\\79039\\Desktop\\TEST\\Flappy-Bird\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AgIAAPsBAAAAAAAAAAAIwAQCAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-02T15:13:40.534Z",
               "EditorCaption": ""

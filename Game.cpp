@@ -253,8 +253,8 @@ void draw()
             buffer[y][x] = backgroundColor;
         }
     }
-
-    int ground_height = 50; // земля
+    // земля
+    int ground_height = 50; 
     uint32_t ground_color = 0xFF8B4513; // коричневый
     for (int y = SCREEN_HEIGHT - ground_height; y < SCREEN_HEIGHT; y++) {
         for (int x = 0; x < SCREEN_WIDTH; x++) {
